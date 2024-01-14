@@ -1,0 +1,23 @@
+h2{
+    text-align: center;
+    font-family: sans-serif;
+    color:darkblue
+}
+
+.para1{
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.para2{
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.para3{
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.para4{
+    font-family: sans-serif;
+    font-weight: 600;
+}
